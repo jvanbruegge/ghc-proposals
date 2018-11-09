@@ -42,7 +42,7 @@ There were already multiple discussions about adding polymorphic record types to
 
 There are mainly two reasons why I open this proposal now:
 
-- It exists a widely used lamanynguage that is very similar to Haskell that has successfully implemented Rows and extensible Records (`PureScript <http://www.purescript.org/>`_)
+- It exists a widely used language that is very similar to Haskell that has successfully implemented Rows and extensible Records (`PureScript <http://www.purescript.org/>`_)
 - There is no central place (like this repository) where opinions about this topic are collected and discussed
 
 Proposed Change Specification
